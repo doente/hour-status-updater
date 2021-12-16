@@ -1,3 +1,7 @@
 {
-    "token": "YOUR TOKEN HERE"
+    "token": "YOUR TOKEN HERE",
+    "personalization": {
+        "emoji": "🌃",
+        "description": "YOUR CUSTOM TEXT"
+    }
 }
