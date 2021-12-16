@@ -9,7 +9,11 @@ npm install
 ```
 Add your account token at [config.json](config.json)
 ```
-node index.js
+node src/index.js
+```
+New feature for BIO
+```
+node src/bio.js
 ```
 
 ## License
